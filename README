@@ -1,0 +1,1 @@
+qprocess-read-pipe, A shell-like pipe reader that reads a process with args and shows the text output
